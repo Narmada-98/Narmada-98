@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Narmada-98  
+- 👋 Hi, I’m Narmada Sahoo
 - 👀 I’m interested in **Natural Language Processing (NLP), Machine Learning (ML), and Backend Development**  
 - 🌱 I’m currently a **final-year M.Tech Data Analytics student at NIT Trichy**  
 - 🚀 Currently working on a **multimodal project involving text and vision data, along with Generative AI**  

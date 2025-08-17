@@ -1,11 +1,12 @@
-- 👋 Hi, I’m Narmada Sahoo
-- 👀 I’m interested in **Natural Language Processing (NLP), Machine Learning (ML), and Backend Development**  
-- 🌱 I’m currently a **final-year M.Tech Data Analytics student at NIT Trichy** and **AI Engineer Intern** at RND Softech 
-- 🚀 Currently working on  **multimodal projects involving text and vision data **  
-- 💞️ I’m looking to collaborate on **NLP projects, Generative AI projects, and ML projects involving end-to-end deployment**  
-- 📫 How to reach me: [Email](narmada.nitu@gmail.com)  
-- 😄 Pronouns: She/Her  
-- ⚡ Fun fact: I enjoy solving **algorithmic problems** and exploring how AI can be made more **explainable and interpretable!**  
+- 👋 Hi, I’m **Narmada Sahoo**  
+- 👀 My interests include **Agentic AI, Generative AI, Natural Language Processing (NLP), Machine Learning (ML), and Backend Development**  
+- 🌱 I’m currently working as an **AI Engineer L1 at RND Softech** and graduated with an **M.Tech in Data Analytics from NIT Trichy**  
+- 🚀 Working on **multimodal AI projects combining text and vision data**  
+- 💞️ Open to collaborations on **NLP, Generative AI, and ML projects involving end-to-end deployment**  
+- 📫 Reach me at: **[narmada.nitu@gmail.com](mailto:narmada.nitu@gmail.com)**  
+- 😄 Pronouns: **She/Her**  
+- ⚡ Fun fact: I love solving **algorithmic problems** and exploring how AI can be made more **explainable and interpretable**  
+
 
 <!---
 Narmada-98/Narmada-98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
